@@ -1,0 +1,9 @@
+Roles and Responsibilities 
+How many people are in DevOps
+Who is my lead 
+If their is on-going activities / releases jst wanted to join on the calls 
+How many Azure DevOps project are their and do we need raise request for all ?
+
+
+DevOps - not particualar scrum team.
+
